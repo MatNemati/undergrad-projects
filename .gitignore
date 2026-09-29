@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+slprj/
+codegen/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+
+# System
+.DS_Store
+Thumbs.db
