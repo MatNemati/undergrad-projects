@@ -14,7 +14,7 @@ Selected projects from my B.Sc. in Electrical Engineering (minor in Computer Sci
 
 From the Labs (BioSignal & DSP), only one project each is included.
 
-## About Me
+---
 
 Matin Nemati - [LinkedIn](linkedin.com/in/matnemati) · [Email](mailto:MatNemati@gmail.com)
 
