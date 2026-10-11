@@ -60,4 +60,4 @@ emg_classification
 
 ## Report
 
-The full report (in Persian) is here: [report_fa.pdf](report/report_fa.pdf)
+The full project report is also available in Persian. Email me at [MatNemati@gmail.com](mailto:MatNemati@gmail.com) if you would like to receive it.
